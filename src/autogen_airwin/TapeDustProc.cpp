@@ -5,6 +5,7 @@
 
 #ifndef __TapeDust_H
 #include "TapeDust.h"
+#include <cstdlib>
 #endif
 namespace airwinconsolidated::TapeDust {
 
